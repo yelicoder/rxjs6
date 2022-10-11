@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("alert('Hello RxJS!');\r\n\n\n//# sourceURL=webpack:///./index.ts?");
+eval("alert('Hello RxJS!');\n\n\n//# sourceURL=webpack:///./index.ts?");
 
 /***/ })
 
