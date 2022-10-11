@@ -17,6 +17,13 @@ RxJS 6: Getting Started by Brice Wilson, September 26, 2018, Pluralsight
 10. ajax: make ajax requests with Rxjs
 11. ajax2: display the result
 ### 04/demos/After
-1. RxBookTracker: remove package-lock.json, npm i, and update start script as mac one
-2. 
+1. RxBookTracker: remove package-lock.json, npm i, and update start script path for mac
+2. observer1: use object literal for observer
+3. observer2: use callback function for observer
+4. observer3: callback functions are optional
+5. multiObservers: multiple calls to subscribe to the same observable. Each observer trigger a different observable
+6. subscription: when cancel subscribe, you will not get the completion method
+7. subscriptionWithCleanUp: add tear down code
+8. subscriptionAdd: add a subscription to another subscription. The cancel can be done by the second subscription
+
 
