@@ -14,4 +14,9 @@ RxJS 6: Getting Started by Brice Wilson, September 26, 2018, Pluralsight
 7. fromObservable: passing an array to from to create an observable
 8. concatObservable: concat observables to one
 9. fromEventObservable: Observable created by button click event
+10. ajax: make ajax requests with Rxjs
+11. ajax2: display the result
+### 04/demos/After
+1. RxBookTracker
+2. 
 
