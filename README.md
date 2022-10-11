@@ -10,4 +10,5 @@ RxJS 6: Getting Started by Brice Wilson, September 26, 2018, Pluralsight
 3. IncorrectPageTitle: observable to throw error
 4. correctPageTitle: display book title again and after while trigger the return function (clean up)
 5. createObservable: replace the constructor with the create method
+6. ofObservable: using of to create Observable. Can pass any comma separated lists
 
