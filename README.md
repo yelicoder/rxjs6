@@ -17,6 +17,6 @@ RxJS 6: Getting Started by Brice Wilson, September 26, 2018, Pluralsight
 10. ajax: make ajax requests with Rxjs
 11. ajax2: display the result
 ### 04/demos/After
-1. RxBookTracker
+1. RxBookTracker: remove package-lock.json, npm i, and update start script as mac one
 2. 
 
